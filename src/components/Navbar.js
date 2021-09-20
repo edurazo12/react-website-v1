@@ -66,7 +66,7 @@ function Navbar() {
                 className='nav-links-mobile'
                 onClick={closeMobileMenu}
               >
-                Get a spot
+                Get a spot here
               </Link>
             </li>
           </ul>
